@@ -10,14 +10,16 @@
 
 
 ## 🛠️ Languages & Tools
+
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,numpy,pandas,mysql,docker,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,aws" />
 </p>
 
 <p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
-
 
 
 ## 🌐 Connect With Me
