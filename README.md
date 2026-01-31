@@ -1,8 +1,6 @@
-# Hi 👋, I'm SATHARLA SAI SANTHOSH
+  # Hi 👋, I'm SATHARLA SAI SANTHOSH
 
 ### 🚀 Data Engineer | Building scalable data pipelines & analytics systems
-
----
 
 ## 🧠 About Me
 - 🏗️ Designing **end-to-end data pipelines (OLTP → OLAP)**
@@ -10,7 +8,6 @@
 - 📊 Building **analytics-ready data models**
 - ☁️ Interested in **Cloud & Big Data technologies**
 
----
 
 ## 🛠️ Languages & Tools
 <p align="left">
@@ -24,7 +21,6 @@
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
----
 
 ## 🌐 Connect With Me
 <p>
@@ -36,7 +32,6 @@
   </a>
 </p>
 
----
 
 ## ✍️ Random Dev Quote
 <p>
