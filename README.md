@@ -11,13 +11,10 @@
 
 ## 🛠️ Languages & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,sql,mysql,docker,git,github,aws" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,docker,git,github,aws,numpy,pandas" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </p>
 
