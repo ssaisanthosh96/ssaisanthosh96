@@ -19,7 +19,7 @@ I'm a **Data Engineer** passionate about building scalable data pipelines, distr
 * 🧱 Developing pipelines using **Databricks**
 * 📊 Creating analytics-ready datasets for **BI & reporting**
 * 🤖 Building **AI-powered applications and workflow automation**
-* 🔧 Using **Docker, Git & GitHub** for development and version control
+* 🔧 Using **Docker, Git & GitHub**
 * 📈 Interested in **Big Data, Cloud Data Engineering & Data Warehousing**
 
 My goal is to transform raw data into **reliable, scalable, and actionable data solutions**.
@@ -84,61 +84,6 @@ My goal is to transform raw data into **reliable, scalable, and actionable data 
 
 ---
 
-# 🚀 Featured Projects
-
-## 🛒 E-Commerce ETL & Distributed Data Pipeline
-
-**Tech:** PySpark • Apache Spark • AWS S3 • Databricks • Git/GitHub
-
-A scalable data engineering pipeline designed to process large volumes of e-commerce transactional data.
-
-### 🔥 Key Features
-
-* 📥 Ingested and processed millions of transactional records
-* 🧹 Performed data cleansing and transformation using PySpark
-* ⚡ Optimized Spark processing using:
-
-  * Data Partitioning
-  * Caching
-  * Optimized Joins
-* 📅 Partitioned data based on **date/category**
-* 🔄 Reduced unnecessary data shuffling
-* 🗄️ Created optimized relational structures for analytics
-* ☁️ Used AWS S3 for cloud-based data storage
-* 🧱 Used Databricks for pipeline development
-* 🔀 Used Git/GitHub for version control
-
-🔗 **Repository:**
-https://github.com/ssaisanthosh96/E-Commerce-ETL-Distributed-Data-Pipeline
-
----
-
-## 🏥 AI-Powered Healthcare Appointment Booking System
-
-**Tech:** WhatsApp Cloud API • n8n • AI Agent • Google Sheets
-
-An AI-powered healthcare appointment booking system that allows patients to book doctor appointments through **natural-language WhatsApp conversations**.
-
-### 🔥 Key Features
-
-* 💬 WhatsApp-based appointment booking
-* 🤖 AI Agent for natural-language understanding
-* 🔗 Meta WhatsApp Cloud API integration
-* ⚙️ n8n workflow orchestration
-* 🧠 Extracts:
-
-  * Patient intent
-  * Medical specialization
-  * Appointment date
-  * Appointment time
-* 📊 Google Sheets appointment database
-* 🔍 Real-time slot availability checking
-* ✅ Automated appointment confirmation
-* 🔔 Automated WhatsApp reminders
-* 📱 Improves patient engagement and reduces missed appointments
-
----
-
 # 🎓 Education
 
 ### 🏫 Parul University — Vadodara, India
@@ -194,14 +139,6 @@ An AI-powered healthcare appointment booking system that allows patients to book
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ssaisanthosh96&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ssaisanthosh96&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ssaisanthosh96&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
